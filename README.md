@@ -1,0 +1,2 @@
+This is a plugin for IntelliJ IDEA that implements jguardrail, a program that provides more warnings for potentially incorrect Java code. Jguardrail identifies common mistakes that beginning computer science students make that are not identified by the traditional Java compiler or IntelliJ IDEA. This plugin successfully runs jguardrail to identify ten different errors, highlight them in the editor, and prevent the project from compiling when these errors are detected.
+A link to the jguardrail program Github repo:  https://github.com/IanFinlayson/jguardrail
