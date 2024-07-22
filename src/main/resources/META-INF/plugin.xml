@@ -8,7 +8,7 @@
     <name>Jguardrail</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="ifinlay@umw.edu" url="https://www.yourcompany.com">UMW CPSC Department SSI 2024</vendor>
+    <vendor email="ifinlay@umw.edu" url="https://www.umw.edu/">UMW CPSC Department SSI 2024</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
