@@ -1,0 +1,33 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+    <log_file alias="idea.log" path="$PROJECT_DIR$/build/idea-sandbox/system/log/idea.log" />
+    <ExternalSystemSettings>
+      <option name="env">
+        <map>
+          <entry key="CERTIFICATE_CHAIN" value="&quot;-----BEGIN CERTIFICATE----- MIID4zCCAsugAwIBAgIUBVB/DHr79zyUVutJoaeVJj/etj4wDQYJKoZIhvcNAQEL BQAwgYAxCzAJBgNVBAYTAlVTMREwDwYDVQQIDAhWaXJnaW5pYTEXMBUGA1UEBwwO RnJlZGVyaWNrc2J1cmcxDDAKBgNVBAoMA1VNVzESMBAGA1UEAwwJTWFja2Vuemll MSMwIQYJKoZIhvcNAQkBFhRtc3dhaW4yQG1haWwudW13LmVkdTAeFw0yNDA3MjIx NTA3MTFaFw0yNTA3MjIxNTA3MTFaMIGAMQswCQYDVQQGEwJVUzERMA8GA1UECAwI VmlyZ2luaWExFzAVBgNVBAcMDkZyZWRlcmlja3NidXJnMQwwCgYDVQQKDANVTVcx EjAQBgNVBAMMCU1hY2tlbnppZTEjMCEGCSqGSIb3DQEJARYUbXN3YWluMkBtYWls LnVtdy5lZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCDrLdswiHO Vu+c38BQwwCzrlsvho3Vo8FiBkLfPs1tQZNb1zqVHyWDVeoPXJIrr8VZdwsovlnK P43uWARpgOR9uphx8uXj0WLBo9JO/M4qpqHSu26+NERw2E4OLqVXzv2N2OrCm6v3 tdkN8P2k/olr4Gt1Z+dS3/d/CU8gcjGvoKtURzgT6FaoCB8ehGXrujdhYs0ENQ7z vqO/wp1nAO/Hmb6oVoMwKOsKylSjJ1OtUDatH3hhGfdVcP9AnKvY0IEBvydGL1eA VVaZjK/tNS/S11oJQ20Y9i5aLIvQ7oa+x8cr0yDPP99zxOCS03ln4oOFImdSov3d 5zqfqdOZDC4pAgMBAAGjUzBRMB0GA1UdDgQWBBSK5E/oale3dph/BMCTgDUvu+Tx bTAfBgNVHSMEGDAWgBSK5E/oale3dph/BMCTgDUvu+TxbTAPBgNVHRMBAf8EBTAD AQH/MA0GCSqGSIb3DQEBCwUAA4IBAQARCV45YRkXMXZTFen9+kN3CTtSStPMZtRz Rz5huxhhJvksh7gdyDi87SMeYQpgAnsaZGz+xFu6B59I4LF/isLX6zuNWaHjPv+G rKa3Ve9HT1eHjjp4aphI+W8p7qwfr03BEoJDq1HqvSYGh8kt/3Lhu45jwSQS1HtF JEbCSdUGyL1XarzSh6iX1XLUz7XrpPcOR2hH9VktVh1G9NCw0bzq87MHUsybqxDI oDNMSrkeuji6ftYawgO//k4N4X/xi6yJCGYPI8/WLHBTFgZq3rFI2I0acHjDFvlh pkA4g9mTBqU3Qc7h+XmnR8QoCEO1PvNE4LekSjh/Q8Bux6T8z7kW -----END CERTIFICATE-----&quot;" />
+          <entry key="PRIVATE_KEY" value="&quot;-----BEGIN PRIVATE KEY----- MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCDrLdswiHOVu+c 38BQwwCzrlsvho3Vo8FiBkLfPs1tQZNb1zqVHyWDVeoPXJIrr8VZdwsovlnKP43u WARpgOR9uphx8uXj0WLBo9JO/M4qpqHSu26+NERw2E4OLqVXzv2N2OrCm6v3tdkN 8P2k/olr4Gt1Z+dS3/d/CU8gcjGvoKtURzgT6FaoCB8ehGXrujdhYs0ENQ7zvqO/ wp1nAO/Hmb6oVoMwKOsKylSjJ1OtUDatH3hhGfdVcP9AnKvY0IEBvydGL1eAVVaZ jK/tNS/S11oJQ20Y9i5aLIvQ7oa+x8cr0yDPP99zxOCS03ln4oOFImdSov3d5zqf qdOZDC4pAgMBAAECggEAAbJSl7Rlo/IN+s8NkYzTABMC9O5jz/Og8il4qEXiduIA KyVaCXdXWqVF/jDYEkzcuwMevJrn7xmZXiTkrlOn6LB5i92lwCUfw7UfvdRMjL33 uk50xhRy0vhlLbzEn8ht5Gtof52VXjxJ1xU6k2sTLAsTdLW5buGDX8U9L4LBKKKM L1QTYnr0KhNdH4svabDNY3D9ra+CY5m1PhaJO49o+sFJ0jrhkJcY9DQYqC9kQMZw 8H7FYd+i8oUFnrxGhxy7W7jvC0gyoh9bvAXG1ceNZJukdz0GXL2GU17HKK8fis7Z 0C/ftHKSlAztZnfSLLyK4CrmT4jwAaPD+y4qR1T8zQKBgQC1+J9U7eQ8PjBHppVe j1YoeTVW7LemhyDPF2ABz/VuJUiXA6Ayi+moqFBVvX0eD8v0Ew3q3QJ3VQBMMmGN aPVDAcZ5qTNl8yHkoucYbm99tL89dv/lh8YKoXTns+iKTuYww+/jKFFvsVRGb86z O+Ff8UE9MKNpIzIuaXlAcNVPlQKBgQC5PfeoKlWpeXkXim87PYDpNwmtKg1wx1XZ xbu3uu1UQqmBUzMhe39kJa0YtRe/YTp5i4dLe4v++1Ip2DkRiSsCcPbnmrz1+gpv Pux5pDJ0mgdQX5ZKBPteSkHNDXN2TlzwqZ5Ni/dlvjGbz4emGC6hdHf/R5d7FpXv tH2Xh1QPRQKBgEpbmd/+hbEISHo+2/KT58UKIn2upSzrMsDs8FJNRCEKIytyU9fT zFsazBj9IU9TbSgDUUCTpxpUJZb9T1eVeAM1ioDUXyhdvY/L8VrOZcicPzlCkzab 0JUvfLHhljhOHUn4BuJv6zcU4zcVIQWkhmfKEbqLUXr44tyMRPvMH54xAoGAaHFm 7FsKN2a0/q/f7T/NKjEM9KSMNXU+k22oXHw5idOYLMGTR6KQ/g88HH0maZJRXOxt mQKMuXRMLCmsa5WyOUsl+wnE1s9nCLgqrp8Ej7e0vf1XCF7st4oYtZuK6T5fqpWI GuL611O4Nsh5DA4AZKn9amKcJxth6GgUk9YKcB0CgYEAgkxd5bUVKdrCksHQVTMF QLXmdXh2TlkgbeoOJdx6Z6yQ5dYDWBrqZCH43MJQdvOBfOrzpIWfzVZGEO9uHiLg NKoCLuI5Zxh9aBiRVXClXih252T2MxUQrLR04ADJDb5it6c+q6inEi8UspEEDb+n /RV/BmTJ7t/ey+mOw65SOoA= -----END PRIVATE KEY----- &quot;" />
+          <entry key="PRIVATE_KEY_PASSWORD" value="&quot;UMWjguardrailSSI24&quot;" />
+          <entry key="PUBLISH_TOKEN" value="&quot;perm:TWFja2VuemllX1N3YWlu.OTItMTA0NTc=.tpQagmDkdEF3h4yy0lu6nKgtHOLLU7&quot;" />
+        </map>
+      </option>
+      <option name="executionName" />
+      <option name="externalProjectPath" value="$PROJECT_DIR$" />
+      <option name="externalSystemIdString" value="GRADLE" />
+      <option name="scriptParameters" value="" />
+      <option name="taskDescriptions">
+        <list />
+      </option>
+      <option name="taskNames">
+        <list>
+          <option value="runIde" />
+        </list>
+      </option>
+      <option name="vmOptions" value="" />
+    </ExternalSystemSettings>
+    <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+    <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+    <DebugAllEnabled>false</DebugAllEnabled>
+    <RunAsTest>false</RunAsTest>
+    <method v="2" />
+  </configuration>
+</component>
