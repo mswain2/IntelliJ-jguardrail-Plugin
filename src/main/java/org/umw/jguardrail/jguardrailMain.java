@@ -36,7 +36,7 @@ public class jguardrailMain {
                     Warnings.setupWarnings(file.getName());
                 } catch (Exception e) {
                     System.out.println("Could not open " + file.getName() + " for reading.");
-                    return false;
+                    return (Boolean) false;
                 }
 
                 CommonTokenStream tokens = new CommonTokenStream(lexer);
@@ -60,7 +60,7 @@ public class jguardrailMain {
                 //if there were any errors, we bail now
                 if (errorListener.errorsExist()) {
                     System.out.println("Errors exist!");
-                    return false;
+                    return (Boolean) false;
                 }
 
                 // make a list of all the checks we have
@@ -98,9 +98,9 @@ public class jguardrailMain {
                 ;
             }
             if (warned[0]) {
-                return false;
+                return (Boolean) false;
             } else {
-                return true;
+                return (Boolean) true;
             }
         });
 

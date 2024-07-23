@@ -60,8 +60,8 @@ public class jguardrailAnnotator implements Annotator {
             }
             /*If the warning is found on the same line as the element, the line hasn't already been highlighted, and the
               element contains the line we want to highlight, highlight the line as an error with the given warning message.*/
-            if(warning.line == line && !done.contains(line) && element.getText().contains(s)) {
-                done.add(line);
+            if(warning.line == line && !done.contains(Integer.valueOf(line)) && element.getText().contains(s)) {
+                done.add(Integer.valueOf(line));
                 holder.newAnnotation(HighlightSeverity.ERROR, warning.message).range(highlightRange).highlightType(ProblemHighlightType.ERROR).create();
             }
         }
